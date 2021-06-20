@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/rzmk/Rutgers-Esports-Newsletter-App">
     <img src="public/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Rutgers Esports Newsletter App</h3>
-  <p align="center">
-    <a href="https://github.com/github_username/repo_name"><strong>View the site »</strong></a>
+  <div align="center">
+    <a href="https://rutgers-esports-mailing-list.herokuapp.com/"><strong>View the site here! »</strong></a>
     <br />
-  </p>
-</p>
+  </div>
+</div>
 
 
 
@@ -35,7 +35,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Rutgers Esports Newsletter App Screenshot][product-screenshot]
+<div align="center">
+  <img src="public/img/screenshot.png" alt="Screenshot">
+</div>
 
 A simple web application for the Rutgers Esports newsletter sign-up.
 
@@ -90,7 +92,3 @@ Project Link: [https://github.com/rzmk/Rutgers-Esports-Newsletter-App](https://g
 * [MailChimp API](https://mailchimp.com/developer/)
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: public/img/screenshot.png
