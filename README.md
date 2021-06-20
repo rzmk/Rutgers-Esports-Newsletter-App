@@ -45,7 +45,7 @@ Details
 * Developing based on the [Web Developer Bootcamp](https://www.udemy.com/share/1013gG/) course.
 * My first server-side web-app, which provides intuition on how the front-end and back-end interact.
 * Interacting with the [MailChimp API](https://mailchimp.com/developer/) using a POST request form.
-* Hosted on [Heroku](https://www.heroku.com/)
+* Hosting on [Heroku](https://www.heroku.com/).
 
 ### Built With
 
